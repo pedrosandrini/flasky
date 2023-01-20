@@ -1,0 +1,5 @@
+# virtual envoriments
+venv
+
+# cache 
+__pycache__
